@@ -1,0 +1,23 @@
+# AI / Codex
+AGENTS.md
+PLAN.md
+.codex/
+.cursor/
+.claude/
+.github/copilot-instructions.md
+
+# Python / Build
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+build/
+dist/
+*.spec
+*.db
+*.db-wal
+*.db-shm
+*.log
+.env
+.env.*
